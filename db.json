@@ -1,0 +1,23 @@
+{
+  "individu": [
+    {
+      "id"= 1,
+      "fName": "Lucinda",
+      "lName": "Lynnette",
+      "age": 20
+    },
+     {
+       "id"= 2,
+      "fName": "Lucinda",
+      "lName": "Lynnette",
+      "age": 20
+    },
+     {
+      "id"= 3,
+      "fName": "han",
+      "lName": "Lynnette",
+      "age": "20"
+    }
+   
+  ]
+}

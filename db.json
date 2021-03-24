@@ -1,30 +1,20 @@
 {
-  "posts": [
+  "individu": [
     {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
+      "fName": "Lucinda",
+      "lName": "Lynnette",
+      "age": "20"
     },
-    {
-      "title": "fuck",
-      "author": "huang",
-      "id": 2
+     {
+      "fName": "Lucinda",
+      "lName": "Lynnette",
+      "age": "20"
     },
-    {
-      "title": "fuck",
-      "author": "huang",
-      "id": 3
+     {
+      "fName": "Lucinda",
+      "lName": "Lynnette",
+      "age": "20"
     }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode",
-    "nameaa": "typicodaae"
-  }
+   
+  ]
 }

@@ -252,8 +252,8 @@
       "adresse":"rue ufe",
       "motDePasse": "1324"
     }
-  ]
-  "directeur":  {
+  ],
+  "directeur": {
     "username": "SIT",
     "motDePasse": "666"
   }

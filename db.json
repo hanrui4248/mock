@@ -187,7 +187,7 @@
       "email":"jay@uqtr.ca",
       "tel":1232321,
       "adresse":"rue etoile",
-      "motDePasse": 123
+      "motDePasse": "123"
     },
     {
       "id": 2,
@@ -196,7 +196,7 @@
       "email":"jerry@uqtr.ca",
       "tel":213131,
       "adresse":"rue fp2",
-      "motDePasse": 321
+      "motDePasse": "321"
     },
     {
       "id": 3,
@@ -205,7 +205,7 @@
       "email":"tommy@uqtr.ca",
       "tel":312112,
       "adresse":"rue sd12",
-      "motDePasse": 442
+      "motDePasse": "442"
     },
     {
       "id": 4,
@@ -214,7 +214,7 @@
       "email":"jimmy@uqtr.ca",
       "tel":123142,
       "adresse":"rue defel",
-      "motDePasse": 0719
+      "motDePasse": "719"
     },
     {
       "id": 5,
@@ -223,7 +223,7 @@
       "email":"frank@uqtr.ca",
       "tel":554511,
       "adresse":"rue qeusl",
-      "motDePasse": 9822
+      "motDePasse": "9822"
     },
     {
       "id": 6,
@@ -232,7 +232,7 @@
       "email":"jordan@uqtr.ca",
       "tel":554511,
       "adresse":"rue qeusl",
-      "motDePasse": 4544
+      "motDePasse": "4544"
     },
      {
       "id": 7,
@@ -241,7 +241,7 @@
       "email":"joe@uqtr.ca",
       "tel":12422,
       "adresse":"rue peai",
-       "motDePasse": 4662
+       "motDePasse": "4662"
     },
     {
       "id": 8,
@@ -250,7 +250,7 @@
       "email":"bob@uqtr.ca",
       "tel":129021,
       "adresse":"rue ufe",
-      "motDePasse": 1324
+      "motDePasse": "1324"
     }
   ]
 }

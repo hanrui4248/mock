@@ -184,7 +184,7 @@
       "id": 1,
       "fName": "Jay",
       "lName": "Chou",
-      "email":"123@uqtr.ca",
+      "email":"jay@uqtr.ca",
       "tel":1232321,
       "adresse":"rue etoile"
     },
@@ -192,7 +192,7 @@
       "id": 2,
       "fName": "Jerry",
       "lName": "Pas",
-      "email":"1112@uqtr.ca",
+      "email":"jerry@uqtr.ca",
       "tel":213131,
       "adresse":"rue fp2"
     },
@@ -200,7 +200,7 @@
       "id": 3,
       "fName": "Tommy",
       "lName": "Frank",
-      "email":"442@uqtr.ca",
+      "email":"tommy@uqtr.ca",
       "tel":312112,
       "adresse":"rue sd12"
     },
@@ -208,10 +208,10 @@
       "id": 4,
       "fName": "Jimmy",
       "lName": "Chan",
-      "email":"34211@uqtr.ca",
+      "email":"jimmy@uqtr.ca",
       "tel":123142,
       "adresse":"rue defel"
-    }
+    },
     {
       "id": 5,
       "fName": "Franklin",
@@ -219,15 +219,15 @@
       "email":"frank@uqtr.ca",
       "tel":554511,
       "adresse":"rue qeusl"
-    }
+    },
     {
       "id": 6,
-      "fName": "Franklin",
-      "lName": "Jone",
-      "email":"frank@uqtr.ca",
+      "fName": "Jordan",
+      "lName": "Mark",
+      "email":"jordan@uqtr.ca",
       "tel":554511,
       "adresse":"rue qeusl"
-    }
+    },
      {
       "id": 7,
       "fName": "Joe",
@@ -235,7 +235,7 @@
       "email":"joe@uqtr.ca",
       "tel":12422,
       "adresse":"rue peai"
-    }
+    },
     {
       "id": 8,
       "fName": "Bob",

@@ -55,10 +55,10 @@
       "fName": "Abbe",
       "lName": "Sam",
       "age": 21,
-      sexe: "homme",
-      adresse: "rue A212",
-      tel:212846,
-      NAS: "****"
+      "sexe": "homme",
+      "adresse": "rue A212",
+      "tel":212846,
+      "NAS": "****"
     },{
       "id": 7,
       "fName": "Water",

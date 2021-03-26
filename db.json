@@ -136,7 +136,7 @@
       "sexe":"homme",
       "adresse":"rue fork",
       "tel:155736,
-      "NAS: "****"
+      "NAS": "****"
     },
     {
       "id": 15,
@@ -153,10 +153,10 @@
       "fName": "Chow",
       "lName": "Mory",
       "age": 29,
-      sexe:'femme',
-      adresse:'rue ysd',
-      tel:583721,
-      NAS: "****"
+      "sexe":"femme",
+      "adresse":'rue ysd',
+      "tel":583721,
+      "NAS": "****"
     },
     {
       "id": 17,

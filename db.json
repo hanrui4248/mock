@@ -178,8 +178,8 @@
       "tel":1232321,
       "NAS": "****"
     }
-  ]
-  "intervenant":[
+  ],
+  "intervenant": [
     {
       "id": 1,
       "fName": "Jay",

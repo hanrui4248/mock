@@ -180,7 +180,7 @@
     }
   ],
   "intervenant": [
-    {
+   {
       "id": 1,
       "fName": "Jay",
       "lName": "Chou",
@@ -196,7 +196,7 @@
       "tel":1232321,
       "adresse":"rue etoile"
     },
-     {
+    {
       "id": 3,
       "fName": "Jay",
       "lName": "Chou",
@@ -204,13 +204,13 @@
       "tel":1232321,
       "adresse":"rue etoile"
     },
-     {
+    {
       "id": 4,
       "fName": "Jay",
       "lName": "Chou",
       "email":"123@uqtr.ca",
       "tel":1232321,
       "adresse":"rue etoile"
-    },
+    }
   ]
 }

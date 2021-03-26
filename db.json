@@ -1,4 +1,5 @@
-"intervenant": [
+{
+    "intervenant": [
     {
       "id": 1,
       "fName": "Jay",
@@ -33,4 +34,5 @@
     },
   
   ]
+    }
 

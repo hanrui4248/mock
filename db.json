@@ -212,5 +212,37 @@
       "tel":123142,
       "adresse":"rue defel"
     },
+    {
+      "id": 5,
+      "fName": "Franklin",
+      "lName": "Jone",
+      "email":"frank@uqtr.ca",
+      "tel":554511,
+      "adresse":"rue qeusl"
+    },
+    {
+      "id": 6,
+      "fName": "Jordan",
+      "lName": "Mark",
+      "email":"jordan@uqtr.ca",
+      "tel":554511,
+      "adresse":"rue qeusl"
+    },
+     {
+      "id": 7,
+      "fName": "Joe",
+      "lName": "Dany",
+      "email":"joe@uqtr.ca",
+      "tel":12422,
+      "adresse":"rue peai"
+    },
+    {
+      "id": 8,
+      "fName": "Bob",
+      "lName": "Peny",
+      "email":"bob@uqtr.ca",
+      "tel":129021,
+      "adresse":"rue ufe"
+    }
   ]
 }

@@ -253,4 +253,8 @@
       "motDePasse": "1324"
     }
   ]
+  "directeur": {
+    "username": "SIT",
+    "motDePasse": "666"
+  }
 }

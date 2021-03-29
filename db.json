@@ -329,7 +329,7 @@
     "username": "SIT",
     "motDePasse": "666"
   }
-  "nbHeureTravailehebdomadaire": [
+  "nbHeureTravailehebdomadaire":[
       {
           "id":1,
            "heure": 40

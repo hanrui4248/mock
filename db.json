@@ -329,4 +329,79 @@
     "username": "SIT",
     "motDePasse": "666"
   }
+  "nbHeureTravailehebdomadaire ": [
+      {
+          "id":1,
+           "heure": 40
+      },
+      {
+          "id":2,
+           "heure": 40
+      },
+      {
+          "id":3,
+           "heure": 40
+      },
+      {
+          "id":4,
+           "heure": 40
+      },
+      {
+          "id":5,
+           "heure": 40
+      },
+{
+          "id":6,
+           "heure": 40
+      },
+{
+          "id":7,
+           "heure": 40
+      },
+{
+          "id":8,
+           "heure": 40
+      },
+{
+          "id":9,
+           "heure": 40
+      },
+{
+          "id":10,
+           "heure": 40
+      },
+{
+          "id":11,
+           "heure": 40
+      },
+{
+          "id":12,
+           "heure": 40
+      },
+{
+          "id":13,
+           "heure": 40
+      },
+{
+          "id":14,
+           "heure": 40
+      },
+{
+          "id":15,
+           "heure": 40
+      },
+{
+          "id":16,
+           "heure": 40
+      },
+{
+          "id":17,
+           "heure": 40
+      },
+{
+          "id":19,
+           "heure": 40
+      }
+  
+   ]
 }

@@ -333,75 +333,93 @@
   "statistique": [
     {
     "id": 0,
-    "nbHeureTravailehebdomadaire": 40
+    "nbHeureTravailehebdomadaire": 40,
+    "nbHeureTravaileMensuel":156
   },
   {
     "id": 1,
-    "nbHeureTravailehebdomadaire": 38
+    "nbHeureTravailehebdomadaire": 38,
+    "nbHeureTravaileMensuel":100
   },
   {
     "id": 2,
-    "nbHeureTravailehebdomadaire": 35
+    "nbHeureTravailehebdomadaire": 35,
+    "nbHeureTravaileMensuel": 132
   },
   {
     "id": 3,
-    "nbHeureTravailehebdomadaire": 27
+    "nbHeureTravailehebdomadaire": 27,
+    "nbHeureTravaileMensuel": 121
   },
   {
     "id": 4,
-    "nbHeureTravailehebdomadaire": 42
+    "nbHeureTravailehebdomadaire": 42,
+    "nbHeureTravaileMensuel":110
   },
   {
     "id": 5,
-    "nbHeureTravailehebdomadaire": 20
+    "nbHeureTravailehebdomadaire": 20,
+    "nbHeureTravaileMensuel":70
   },
   {
     "id": 6,
-    "nbHeureTravailehebdomadaire": 12
+    "nbHeureTravailehebdomadaire": 12,
+    "nbHeureTravaileMensuel":91
   },
   {
     "id": 7,
-    "nbHeureTravailehebdomadaire": 19
+    "nbHeureTravailehebdomadaire": 19,
+    "nbHeureTravaileMensuel":142
   },
   {
     "id": 8,
-    "nbHeureTravailehebdomadaire": 33
+    "nbHeureTravailehebdomadaire": 33,
+    "nbHeureTravaileMensuel":60
   },
   {
     "id": 9,
-    "nbHeureTravailehebdomadaire": 25
+    "nbHeureTravailehebdomadaire": 25,
+    "nbHeureTravaileMensuel":148
   },
   {
     "id": 10,
-    "nbHeureTravailehebdomadaire": 24
+    "nbHeureTravailehebdomadaire": 24,
+    "nbHeureTravaileMensuel":73
   },
   {
     "id": 11,
-    "nbHeureTravailehebdomadaire": 21
+    "nbHeureTravailehebdomadaire": 21,
+    "nbHeureTravaileMensuel":85
   },
   {
     "id": 12,
-    "nbHeureTravailehebdomadaire": 28
+    "nbHeureTravailehebdomadaire": 28,
+    "nbHeureTravaileMensuel":68
   },
   {
     "id": 13,
-    "nbHeureTravailehebdomadaire": 26
+    "nbHeureTravailehebdomadaire": 26,
+    "nbHeureTravaileMensuel":122
   },
   {
     "id": 14,
-    "nbHeureTravailehebdomadaire": 9
+    "nbHeureTravailehebdomadaire": 9,
+    "nbHeureTravaileMensuel":!23
   },
   {
     "id": 15,
-    "nbHeureTravailehebdomadaire": 30
+    "nbHeureTravailehebdomadaire": 30,
+    "nbHeureTravaileMensuel":129
   },
   {
     "id": 16,
-    "nbHeureTravailehebdomadaire": 25
+    "nbHeureTravailehebdomadaire": 25,
+    "nbHeureTravaileMensuel":58
   },
   {
     "id": 17,
-    "nbHeureTravailehebdomadaire": 21
+    "nbHeureTravailehebdomadaire": 21,
+    "nbHeureTravaileMensuel":98
   }      
     ]
   

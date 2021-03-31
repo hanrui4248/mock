@@ -328,6 +328,81 @@
   "directeur": {
     "username": "SIT",
     "motDePasse": "666"
-  }
+  },
+  
+  "statistique": [
+    {
+    "id": 0,
+    "nbHeureTravailehebdomadaire": 40
+  },
+  {
+    "id": 1,
+    "nbHeureTravailehebdomadaire": 38
+  },
+  {
+    "id": 2,
+    "nbHeureTravailehebdomadaire": 35
+  },
+  {
+    "id": 3,
+    "nbHeureTravailehebdomadaire": 27
+  },
+  {
+    "id": 4,
+    "nbHeureTravailehebdomadaire": 42
+  },
+  {
+    "id": 5,
+    "nbHeureTravailehebdomadaire": 20
+  },
+  {
+    "id": 6,
+    "nbHeureTravailehebdomadaire": 12
+  },
+  {
+    "id": 7,
+    "nbHeureTravailehebdomadaire": 19
+  },
+  {
+    "id": 8,
+    "nbHeureTravailehebdomadaire": 33
+  },
+  {
+    "id": 9,
+    "nbHeureTravailehebdomadaire": 25
+  },
+  {
+    "id": 10,
+    "nbHeureTravailehebdomadaire": 24
+  },
+  {
+    "id": 11,
+    "nbHeureTravailehebdomadaire": 21
+  },
+  {
+    "id": 12,
+    "nbHeureTravailehebdomadaire": 28
+  },
+  {
+    "id": 13,
+    "nbHeureTravailehebdomadaire": 26
+  },
+  {
+    "id": 14,
+    "nbHeureTravailehebdomadaire": 9
+  },
+  {
+    "id": 15,
+    "nbHeureTravailehebdomadaire": 30
+  },
+  {
+    "id": 16,
+    "nbHeureTravailehebdomadaire": 25
+  },
+  {
+    "id": 17,
+    "nbHeureTravailehebdomadaire": 21
+  }      
+    ]
   
 }

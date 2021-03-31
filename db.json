@@ -334,92 +334,110 @@
     {
     "id": 0,
     "nbHeureTravailehebdomadaire": 40,
-    "nbHeureTravaileMensuel":156
+    "nbHeureTravaileMensuel":156,
+    "nbHeureTravailleAnnuel":399
   },
   {
     "id": 1,
     "nbHeureTravailehebdomadaire": 38,
-    "nbHeureTravaileMensuel":100
+    "nbHeureTravaileMensuel":100,
+    "nbHeureTravailleAnnuel":420
   },
   {
     "id": 2,
     "nbHeureTravailehebdomadaire": 35,
-    "nbHeureTravaileMensuel": 132
+    "nbHeureTravaileMensuel": 132,
+    "nbHeureTravailleAnnuel":321
   },
   {
     "id": 3,
     "nbHeureTravailehebdomadaire": 27,
-    "nbHeureTravaileMensuel": 121
+    "nbHeureTravaileMensuel": 121,
+    "nbHeureTravailleAnnuel":246
   },
   {
     "id": 4,
     "nbHeureTravailehebdomadaire": 42,
-    "nbHeureTravaileMensuel":110
+    "nbHeureTravaileMensuel":110,
+    "nbHeureTravailleAnnuel":381
   },
   {
     "id": 5,
     "nbHeureTravailehebdomadaire": 20,
-    "nbHeureTravaileMensuel":70
+    "nbHeureTravaileMensuel":70,
+    "nbHeureTravailleAnnuel":401
   },
   {
     "id": 6,
     "nbHeureTravailehebdomadaire": 12,
-    "nbHeureTravaileMensuel":91
+    "nbHeureTravaileMensuel":91,
+    "nbHeureTravailleAnnuel":300
   },
   {
     "id": 7,
     "nbHeureTravailehebdomadaire": 19,
-    "nbHeureTravaileMensuel":142
+    "nbHeureTravaileMensuel":142,
+    "nbHeureTravailleAnnuel":211
   },
   {
     "id": 8,
     "nbHeureTravailehebdomadaire": 33,
-    "nbHeureTravaileMensuel":60
+    "nbHeureTravaileMensuel":60,
+    "nbHeureTravailleAnnuel":265
   },
   {
     "id": 9,
     "nbHeureTravailehebdomadaire": 25,
-    "nbHeureTravaileMensuel":148
+    "nbHeureTravaileMensuel":148,
+    "nbHeureTravailleAnnuel":298
   },
   {
     "id": 10,
     "nbHeureTravailehebdomadaire": 24,
-    "nbHeureTravaileMensuel":73
+    "nbHeureTravaileMensuel":73,
+    "nbHeureTravailleAnnuel":274
   },
   {
     "id": 11,
     "nbHeureTravailehebdomadaire": 21,
-    "nbHeureTravaileMensuel":85
+    "nbHeureTravaileMensuel":85,
+    "nbHeureTravailleAnnuel":254
   },
   {
     "id": 12,
     "nbHeureTravailehebdomadaire": 28,
-    "nbHeureTravaileMensuel":68
+    "nbHeureTravaileMensuel":68,
+    "nbHeureTravailleAnnuel":266
   },
   {
     "id": 13,
     "nbHeureTravailehebdomadaire": 26,
-    "nbHeureTravaileMensuel":122
+    "nbHeureTravaileMensuel":122,
+    "nbHeureTravailleAnnuel":183
   },
   {
     "id": 14,
     "nbHeureTravailehebdomadaire": 9,
-    "nbHeureTravaileMensuel":123
+    "nbHeureTravaileMensuel":123,
+    "nbHeureTravailleAnnuel":189
   },
   {
     "id": 15,
     "nbHeureTravailehebdomadaire": 30,
-    "nbHeureTravaileMensuel":129
+    "nbHeureTravaileMensuel":129,
+    "nbHeureTravailleAnnuel":172
   },
   {
     "id": 16,
     "nbHeureTravailehebdomadaire": 25,
-    "nbHeureTravaileMensuel":58
+    "nbHeureTravaileMensuel":58,
+    "nbHeureTravailleAnnuel":360
   },
   {
     "id": 17,
     "nbHeureTravailehebdomadaire": 21,
-    "nbHeureTravaileMensuel":98
+    "nbHeureTravaileMensuel":98,
+    "nbHeureTravailleAnnuel":199
   }      
     ]
   
